@@ -16,7 +16,7 @@ Philosophy Discussant is a Streamlit-based application that uses AI to facilitat
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/philosophy-discussant-streamlit100.git
+   git clone https://github.com/lalomorales22/philosophy-discussant-streamlit100.git
    cd philosophy-discussant
    ```
 
